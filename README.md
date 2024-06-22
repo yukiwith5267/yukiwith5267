@@ -24,7 +24,7 @@ Let go of attachment to old customs.
   <a href="https://www.linkedin.com/in/%E8%A3%95%E8%B2%B4-yuki-teduka-%E6%89%8B%E5%A1%9A-208994262/">
     <img src="https://img.shields.io/badge/linkedin-@yuki--teduka-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.wantedly.com/id/yuuki_teduka_edu">
-    <img src="https://img.shields.io/badge/wantedly-@yuuki__teduka__edu-blue?style=flat-square&logo=wantedly" alt="Wantedly"/>
+  <a href="https://www.wantedly.com/id/yuuki_teduka_id">
+    <img src="https://img.shields.io/badge/wantedly-@yuuki__teduka__id-blue?style=flat-square&logo=wantedly" alt="Wantedly"/>
   </a>
 
