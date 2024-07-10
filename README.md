@@ -35,11 +35,11 @@ My First Project
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Connect with me on:
 
-<a href="https://www.linkedin.com/in/%E8%A3%95%E8%B2%B4-yuki-teduka-%E6%89%8B%E5%A1%9A-208994262/">
+<a href="https://www.linkedin.com/in/yuki-tezuka-%E6%89%8B%E5%A1%9A%E8%A3%95%E8%B2%B4-a1a681315/">
   <img src="https://img.shields.io/badge/linkedin-@yuki--teduka-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://www.wantedly.com/id/yuuki_teduka_id">
-  <img src="https://img.shields.io/badge/wantedly-@yuuki__teduka__id-blue?style=flat-square&logo=wantedly" alt="Wantedly"/>
+<a href="https://www.wantedly.com/id/yuki_teduka_">
+  <img src="https://img.shields.io/badge/wantedly-@yuki_teduka_-blue?style=flat-square&logo=wantedly" alt="Wantedly"/>
 </a>
 <a href="mailto:yuki.tezuka.works@gmail.com">
   <img src="https://img.shields.io/badge/email-yuki.tezuka.works@gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
