@@ -27,7 +27,6 @@ I am passionate about mobile application development with Flutter. Here’s a br
 ### Key Skills
 - **Flutter**: Creating modern UIs.
 - **Next.js**: Using the App Router and creating simple web pages with Shadcn UI and Tailwind CSS.
-- **FastAPI**: Building high-speed backends.
 
 ## Projects
 
