@@ -1,30 +1,43 @@
+# Welcome to My GitHub Profile!
 
-- 🧠 I have a passion for the **EEG** (Brain electrical activity read from on the scalp).
+I have been researching schizophrenia using EEG and the Free Energy Principle. Now, I am forging a new path as an engineer after dropping out of the research field.
 
+I am interested in searching for the latest technology trends. I am passionate about mobile application development with Flutter. Here’s a brief overview of the technologies I excel in:
 
-Let go of attachment to old customs.
+## What I Can Do
 
-**Frameworks**
+&nbsp;&nbsp;&nbsp;
+<a href="https://flutter.dev/">
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+</a>
 
-  <a href="https://nextjs.org/">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://flutter.dev/">
-    <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
-  </a>
+### Key Skills
+- **Flutter**: Creating modern UI.
+- **Next.js**: Using the app router, creating simple web pages with Shadcn UI and Tailwind CSS.
+- **FastAPI**: High-performance backend API development.
 
+## Projects
 
-**Connect with me**
+### My First Project
 
-  <a href="https://www.linkedin.com/in/%E8%A3%95%E8%B2%B4-yuki-teduka-%E6%89%8B%E5%A1%9A-208994262/">
-    <img src="https://img.shields.io/badge/linkedin-@yuki--teduka-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.wantedly.com/id/yuuki_teduka_id">
-    <img src="https://img.shields.io/badge/wantedly-@yuuki__teduka__id-blue?style=flat-square&logo=wantedly" alt="Wantedly"/>
-  </a>
+- **Eliminating Package Theft LINE Bot [https://github.com/yukiwith5267/raspi_intercom_control]**: A product created for JpHacks in October 2023. It is a robot that operates an intercom using Raspberry Pi.
 
+## Connect with Me
+
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Connect with me on:
+
+<a href="https://www.linkedin.com/in/%E8%A3%95%E8%B2%B4-yuki-teduka-%E6%89%8B%E5%A1%9A-208994262/">
+  <img src="https://img.shields.io/badge/linkedin-@yuki--teduka-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://www.wantedly.com/id/yuuki_teduka_id">
+  <img src="https://img.shields.io/badge/wantedly-@yuuki__teduka__id-blue?style=flat-square&logo=wantedly" alt="Wantedly"/>
+</a>
+
+Feel free to check out my repositories and get in touch if you’d like to collaborate or just have a chat!
