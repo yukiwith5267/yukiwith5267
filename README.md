@@ -19,6 +19,10 @@ I am passionate about mobile application development with Flutter. Here’s a br
 <a href="https://fastapi.tiangolo.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://firebase.google.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/>
+</a>
 
 ### Key Skills
 - **Flutter**: Creating modern UIs.
