@@ -29,7 +29,7 @@ I am passionate about mobile application development with Flutter. Here’s a br
 
 My First Project
 
-- **[LINE BOT to eradicate redelivery](https://github.com/yukiwith5267/raspi_intercom_control)**: A product created at JpHacks in October 2023. It is a robot that operates an intercom using a Raspberry Pi.
+- **[LINE BOT to eradicate redelivery] (https://github.com/yukiwith5267/raspi_intercom_control)**: A product created at JpHacks in October 2023. It is a robot that operates an intercom using a Raspberry Pi.
 
 ## Connect with Me
 
