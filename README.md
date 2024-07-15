@@ -25,14 +25,20 @@ I am passionate about mobile application development with Flutter. Here’s a br
 </a>
 
 ### Key Skills
-- **Flutter**: Creating modern UIs.
-- **Next.js**: Using the App Router and creating simple web pages with Shadcn UI and Tailwind CSS.
 
-## Projects
+**Mobile** - Flutter: Creating distinctive modern UIs. Development using Firebase and local database Isar.
+
+**Web Page** - Next.js: Building web services that communicate with a simple backend using App Router, ShadcnUI, and TailwindCSS.
+
+## My Projects
 
 My First Project
 
 - **[LINE BOT to eradicate redelivery] (https://github.com/yukiwith5267/raspi_intercom_control)**: A product created at JpHacks in October 2023. It is a robot that operates an intercom using a Raspberry Pi.
+
+Current Work
+
+- I am currently developing a mental health app for people with bipolar disorder using Flutter. My goal is to alleviate the mental health issues that I and others face. I am looking for startups that share a passion for this cause and resonate with my efforts.
 
 ## Connect with Me
 
