@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile
 
 I have been working on schizophrenia research using EEG and the Free Energy Principle.
 Currently, I have dropped out of the research path and am pioneering a career as an engineer.
@@ -26,7 +26,7 @@ I am passionate about mobile application development with Flutter. Here’s a br
 
 ### Key Skills
 
-**Mobile** - Flutter: Creating distinctive modern UIs. Development using Firebase and local database Isar.
+**Mobile** - Flutter: Creating distinctive modern UIs. Development using Firebase and local database.
 
 **Web Page** - Next.js: Building web services that communicate with a simple backend using App Router, ShadcnUI, and TailwindCSS.
 
